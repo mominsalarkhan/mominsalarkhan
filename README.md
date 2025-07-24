@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Momin 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student+@+FIU;Backend+Developer;Tech+Enthusiast&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student+@+FIU;Full+Stack+Developer;Backend+Engineer;+Frontend+Builder;Tech+Explorer&center=true&width=500&height=45">
 </p>
 
 ---
