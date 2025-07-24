@@ -13,8 +13,9 @@
 - 🎓 Computer Science student @ Florida International University (Graduating Dec 2025)
 - 💼 Currently interning at FIU on a database project for Florida Power & Light (FPL), designing and optimizing backend systems to support real-time grid data analysis and decision-making
 - 🔧 Passionate about backend development, system automation, and working with large-scale data pipelines
+- 🤖 Interested in machine learning and AI exploring neural networks, automation models, and real-world applications in energy and operations
 - 🌐 Exploring frontend frameworks and full-stack integration to round out my skills
-- 📚 Always learning — currently focused on systems programming, database optimization, and cloud infrastructure
+- 📚 Always learning currently focused on systems programming, database optimization, and cloud infrastructure
 
 ---
 
